@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+
+  --color-canvas: #f1f4fb;
+  --color-panel: #e9effd;
+  --color-ink: #1b2a58;
+  --color-muted: #78829d;
+  --color-line: #e3e8f0;
+  --color-brand: #3a5bd9;
+  --color-brand-soft: #c4d1f6;
+  --color-card: #4d6ed6;
+  --color-ok: #17795c;
+  --color-danger: #c0392b;
+}
